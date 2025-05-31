@@ -34,4 +34,4 @@ Automatiza mensagens de **boas-vindas** e **despedida** para membros, com estilo
 
 ```bash
 git clone https://github.com/kalashnikov-source/Esp-rito-M-quina.git
-cd Esp-rito-M-quina-bot
+cd Esp-rito-M-quina
