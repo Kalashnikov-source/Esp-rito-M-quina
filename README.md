@@ -35,9 +35,3 @@ Automatiza mensagens de **boas-vindas** e **despedida** para membros, com estilo
 ```bash
 git clone https://github.com/kalashnikov-source/Esp-rito-M-quina.git
 cd Esp-rito-M-quina-bot
-
-Instale as dependências:
-pip install discord.py python-dotenv
-
-Configure o arquivo .env:
-DISCORD_TOKEN=seu_token_aqui 
